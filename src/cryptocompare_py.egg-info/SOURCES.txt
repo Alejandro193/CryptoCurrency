@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/cryptocompare_py.egg-info/PKG-INFO
+src/cryptocompare_py.egg-info/SOURCES.txt
+src/cryptocompare_py.egg-info/dependency_links.txt
+src/cryptocompare_py.egg-info/top_level.txt
